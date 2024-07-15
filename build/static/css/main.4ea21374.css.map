@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4ea21374.css","mappings":"AAAA,UACI,cACJ,CACA,aACI,wBACJ","sources":["App.css"],"sourcesContent":["nav ul li{\n    cursor: pointer;\n}\n.btn-1:hover{\n    background-color: rgb(19, 20, 19);\n}\n"],"names":[],"sourceRoot":""}
